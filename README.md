@@ -98,12 +98,15 @@ security-log-analysis-lab/
 ├── report/
 │   └── Security_Log_Analysis_Report.pdf
 │
-└── screenshots/
-    ├── 01_ssh_status.png
-    ├── 02_failed_login.png
-    ├── 03_log_output.png
-    ├── 04_filtered_failed.png
-    └── 05_failed_count.png
+├── screenshots/
+│   ├── 01_ssh_status.png
+│   ├── 02_failed_login.png
+│   ├── 03_log_output.png
+│   ├── 04_filtered_failed.png
+│   └── 05_failed_count.png
+│
+└── scans/
+    └── failed_attempts.txt
 
     
 ## Skills Demonstrated
